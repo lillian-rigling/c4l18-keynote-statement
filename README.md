@@ -550,7 +550,7 @@ unprofessional behavior.
 * Sarah Polkinghorne
 * Kimberly Silk
 * Krista Godfrey
-* Bobby Glushko, Western University
+* Lillian Rigling
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
